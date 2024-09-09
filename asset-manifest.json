@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rajon-Portfolio/static/css/main.01819874.css",
+    "main.js": "/Rajon-Portfolio/static/js/main.a6ef76c7.js",
+    "static/media/cartoon.png": "/Rajon-Portfolio/static/media/cartoon.ddd3a92db39c4809ce01.png",
+    "static/media/rajon.jpg": "/Rajon-Portfolio/static/media/rajon.76e006240cfa535d2537.jpg",
+    "static/media/rafanellievents.webp": "/Rajon-Portfolio/static/media/rafanellievents.66c590231d2dc3441d89.webp",
+    "static/media/project1.webp": "/Rajon-Portfolio/static/media/project1.daf1c2aaede3a4c0b026.webp",
+    "static/media/coremedix.webp": "/Rajon-Portfolio/static/media/coremedix.51a04ed1664976066848.webp",
+    "static/media/liondiamonds.webp": "/Rajon-Portfolio/static/media/liondiamonds.0d54cc7cc09cdd3ec6b0.webp",
+    "static/media/csl.webp": "/Rajon-Portfolio/static/media/csl.93ab357918829275f240.webp",
+    "index.html": "/Rajon-Portfolio/index.html",
+    "main.01819874.css.map": "/Rajon-Portfolio/static/css/main.01819874.css.map",
+    "main.a6ef76c7.js.map": "/Rajon-Portfolio/static/js/main.a6ef76c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01819874.css",
+    "static/js/main.a6ef76c7.js"
+  ]
+}
